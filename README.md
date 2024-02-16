@@ -8,8 +8,3 @@ if you want to know more about me.
 i'm leaving here my [LinkedIn](linkedin.com/in/pol-jaimejuan-caubet/) :)
 
 just a beta version of [my future portfolio](https://polete11jj.github.io/my-first-calculator/)
-
-
-
-
-f
