@@ -73,6 +73,13 @@ form input.equal {
     width: 124px;
 }
 
+form input[type="button"]{
+    transition: background-color 0.15s;
+}
+form input[type="button"]:hover{
+    background-color: rgba(34, 34, 34, 0.295)
+}
+
 form input.operator{
     font-style: normal;
     font-weight: 700;
