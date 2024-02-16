@@ -7,7 +7,7 @@ this is my first "frontend" project, it has been done without JS, today's date i
 if you want to know more about me.
 i'm leaving here my [LinkedIn](linkedin.com/in/pol-jaimejuan-caubet/) :)
 
-just a beta version of my future portfolio
+just a beta version of [my future portfolio](https://polete11jj.github.io/my-first-calculator/)
 
 
 
