@@ -11,7 +11,7 @@
     background-color: #E3F9FF;
 }
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:800px) {
     .container{
         display: flex;
         flex-direction: column;
